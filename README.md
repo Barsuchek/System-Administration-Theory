@@ -1,2 +1,13 @@
 # System-Administration-Theory
-This repository stores the information I studied on system administration
+
+## Темы:
+* [IP]()
+* [Хаб. Коммутатор. Маршрутизатор.]()
+* [VPN]()
+* [Модель OSI]()
+* [Виды угроз информационной безопасности]()
+* [LAN. WAN.]()
+* [DNS-Сервер]()
+* [IP-Телефония]()
+* [DHCP]()
+* [RAID]()

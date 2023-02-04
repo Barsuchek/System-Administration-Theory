@@ -12,3 +12,4 @@
 * [DHCP](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/DHCP.md)
 * [RAID](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/RAID.md)
 * [Ethernet](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Ethernet.md)
+* [Telnet, SSH, консоль и терминал](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/TelnetSSH.md)

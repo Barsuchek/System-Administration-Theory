@@ -13,4 +13,4 @@
 * [RAID](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/RAID.md)
 * [Ethernet](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Ethernet.md)
 * [Telnet, SSH, консоль и терминал](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/TelnetSSH.md)
-* [Firewall](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Firewall.md)
+* [Firewall(брандмауэр, межсетевой экран)](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Firewall.md)

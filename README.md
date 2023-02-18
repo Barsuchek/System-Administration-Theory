@@ -1,6 +1,7 @@
 # System-Administration-Theory
 
 ## Темы:
+* [Обжим витой пары](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Обжим.md)
 * [IP](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/IP.md)
 * [Хаб. Коммутатор. Маршрутизатор.](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Хаб.%20Коммутатор.%20Маршрутизатор.md)
 * [VPN](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/VPN.md)

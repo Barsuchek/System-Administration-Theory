@@ -2,6 +2,7 @@
 
 ## Темы:
 * [Витая пара](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/ВитаяПара.md)
+* [Основы работы с терминалом](ОсновыТерминал.md)
 * [IP](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/IP.md)
 * [Хаб. Коммутатор. Маршрутизатор.](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/Хаб.%20Коммутатор.%20Маршрутизатор.md)
 * [VPN](https://github.com/Barsuchek/System-Administration-Theory/blob/main/Education/VPN.md)
